@@ -27,7 +27,7 @@ body {
     background-size: cover;
     background-position: center;
     box-shadow: 0 0 500px orangered;
-    transform: scale(2.3);
+    transform: scale(2.1);
 }
 input {
     height: 40px;
